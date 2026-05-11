@@ -1,0 +1,14 @@
+title: hand
+is-hand: true
+max-cards: 3
+
+This is the hand of a dendrynexus project.
+
+- @deck1
+
+@deck1
+title: Deck1
+card-image: img/noimagelol.png
+is-deck: true
+
+- #deck1

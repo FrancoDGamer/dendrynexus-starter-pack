@@ -1,0 +1,7 @@
+title: card2
+tags: deck1
+is-card: true
+card-image: img/placeholder.jpg
+new-page: true
+
+This is a dendrynexus card. It creates a new page.
